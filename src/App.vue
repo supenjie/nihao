@@ -93,10 +93,13 @@ html{
   width: 90vw;
   padding: 0 5vw;
   height: 40px;
-  /* background-color: red; */
+  background-color: rgb(255, 255, 255);
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: sticky;
+  top: 107px;
+  z-index: 99999999999;
 }
 .nav_box span{
   color: gray;

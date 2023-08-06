@@ -39,7 +39,6 @@
         alt=""
       />
       <img class="book" src="https://weread-1258476243.file.myqcloud.com/weread/cover/75/cpPlatform_dbb14284a55f1e733b60202b0777255d/t6_cpPlatform_dbb14284a55f1e733b60202b0777255d.jpg" alt="">
-      <!-- <img class="book" src="https://wfqqreader-1252317822.image.myqcloud.com/cover/544/27370544/t6_27370544.jpg" alt=""> -->
       <span class="xp"
         ><p><span>书</span><span>架</span></p>
         <b
